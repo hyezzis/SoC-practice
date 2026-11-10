@@ -1,0 +1,36 @@
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+
+# Keil MDK
+Objects/
+Listings/
+*.axf
+*.elf
+*.o
+*.d
+*.uvoptx
+*.uvguix.*
+
+# ModelSim
+work/
+transcript
+vsim.wlf
+*.wlf
+*.vcd
+
+# Quartus
+db/
+incremental_db/
+output_files/
+*.qws
+*.sof
+*.pof
+*.rpt
+
+# Temporary Files
+*.log
+*.tmp
+*.bak
